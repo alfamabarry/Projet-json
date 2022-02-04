@@ -1,0 +1,11 @@
+
+thead{
+    cursor: pointer;
+  }
+  h1{
+      text-align: center;
+  }
+
+  .input-group-text{
+      cursor: pointer;
+  }

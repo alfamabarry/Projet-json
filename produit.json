@@ -1,0 +1,124 @@
+[
+    {
+
+        "id": "T6GH3CTY1P",
+        "designation":"SPRAY-OUD",
+        "prix":"235",
+        "catégorie":" PARFUN",
+        "disponibilite":["Tanger","casablanca","rabat"],
+        "fournisseur":
+            {"raisonSocial" : "l'OREAL PARIS",
+            "adress" : "tanger, route de Rabat"}
+          
+         },
+           
+                        
+                        
+      
+   
+    {
+
+        "id": "T07JS9HT58",
+        "designation":"SERUM CHEVEUX",
+        "prix":"155",
+        "catégorie":"POUR CHEVEUX",
+        "disponibilite":["tanger","Marjane"],
+        "fournisseur":
+            {"raisonSocial" : "Beauté-maroc sarl",
+            "adress" : "Bvd mohamed V Tanger"}
+          
+            
+             
+                     }
+    
+    ,
+
+    
+    {
+
+        "id": "T1BN50785B",
+        "designation":"A DERMA",
+        "prix":"180",
+        "catégorie":"epiderme",
+        "disponibilite":["agadir","mohamedia"],
+        "fournisseur": 
+            {"raisonSocial" : "SIVOP",
+            "adress" : "John Kennedy, bvd, Agadir"}
+          
+
+        }
+    
+    ,
+
+
+    {
+
+        "id": "T4YLR1Z6TO",
+        "designation":"PHYTEAL",
+        "prix":"100",
+        "catégorie":"gel protecteur",
+        "disponibilite":["tetouan","kenitra"],
+        "fournisseur":{"raisonSocial":"BIO COMPAGNY","adress":"bang AlMaghreb AlArabi, kenitra II, Tetouan"} 
+    }
+    ,
+    {
+
+        "id": "T7GPA83LHO",
+        "designation":"ACM",
+        "prix":"400",
+        "catégorie":"GEL CONTOURE DE YEUX",
+        "disponibilite":["tanger","casablanca"],
+        "fournisseur":{"raisonSocial":"VICHY","adress": " 43, Mansour Dahbi,  TANGER"} 
+    }
+    ,
+    {
+
+        "id": "T1NFL359SQ",
+        "designation":"FILORCA",
+        "prix":"600",
+        "catégorie":"DEFENCE SOIN SOLAIRE",
+        "disponibilite":["assilah","agadir"],
+        "fournisseur":{"raisonSocial":"VICHY","adress":" Avenue Mohamed V ville nouvelle, 85000, AGADIR,route assilah"}
+    }
+    ,
+    {
+
+        "id": "T1130846MI",
+        "designation":"HEGORLOTION",
+        "prix":"500",
+        "catégorie":"ANTICHUT",
+        "disponibilite":["Rabat","marrakech"],
+        "fournisseur":{"raisonSocial":"IVE-ROCHE","adress":"place de la Liberté, 26000, Settat ,rabat agdal"} 
+    }
+    ,
+    {
+
+        "id": "T509PGU58J",
+        "designation":"KLORANE",
+        "prix":"200",
+        "catégorie":" APRES SHAMOING",
+        "disponibilite":["oujda","mohamedia"],
+        "fournisseur":{"raisonSocial":"NIVEA","adress":" 46, rue Oqba Bnou Nafia berrechid"} 
+    }
+    ,
+    {
+
+        "id": "T05PL0456P",
+        "designation":"NUXE",
+        "prix":"540",
+        "catégorie":"HUIL PRODUIGIEUSE",
+        "disponibilite":["rabat","Marrakech","tanger"],
+        "fournisseur":{"raisonSocial":"SIVOP","adress":"av. Mly Rachid, rte. de Sefrou, tanger"} 
+    }
+    ,
+    {
+
+        "id": "T0KMP5A8PI",
+        "designation":"ULTRASUN",
+        "prix":"100",
+        "catégorie":"BAUME A LEVRE",
+        "disponibilite":["casa","tanger"],
+        "fournisseur":{"raisonSocial":"RANIMOB","adress":" Avenue Mohammed V, 90000, TANGER"} 
+    }
+  
+]
